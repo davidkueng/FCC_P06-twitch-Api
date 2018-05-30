@@ -1,0 +1,39 @@
+body {
+    margin-top: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .channelContainer {
+      margin: auto;
+  }
+
+  .channels {  
+    height: 100px; 
+    margin: auto;
+    margin-top: 10px; 
+    padding-bottom: 8px;
+    padding-left: 8px;
+    text-align: center;
+    background-color: white; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.03);  
+  }
+  
+  .channelInfo {  
+    display: inline-block;  
+    line-height: 100px;
+    vertical-align: middle;   
+  }
+  
+  .pic {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    position: sticky;
+    right: 9999px;
+    top: 500px;
+  }
